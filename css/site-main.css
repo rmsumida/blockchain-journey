@@ -1,0 +1,7 @@
+.post-card-feed {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-evenly;
+    border: 2px solid blue;
+}

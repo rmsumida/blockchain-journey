@@ -1,7 +1,5 @@
-.site-head-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    border: 2px solid red;
-}
+@import "css/site-main.css";
+@import "css/site-head.css";
+
+
 
