@@ -1,9 +1,9 @@
-@import "site-main.css";
 @import "site-head.css";
+@import "site-main.css";
+@import "site-foot.css";
 
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: 100%;
 }
 

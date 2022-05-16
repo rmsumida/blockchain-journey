@@ -1,0 +1,13 @@
+.site-foot-container {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green;
+}
+
+.site-foot-left {
+    border: 2px solid purple;
+}
+
+.site-foot-right {
+    border: 2px solid purple;
+}
