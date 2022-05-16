@@ -1,5 +1,9 @@
 @import "css/site-main.css";
 @import "css/site-head.css";
 
-
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
 
