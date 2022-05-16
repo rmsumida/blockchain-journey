@@ -1,5 +1,5 @@
-@import "css/site-main.css";
-@import "css/site-head.css";
+@import "site-main.css";
+@import "site-head.css";
 
 body {
     display: flex;
