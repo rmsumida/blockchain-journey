@@ -1,12 +1,10 @@
 .site-head-container {
     background-color: #222;
-    border: 2px solid red;
 }
 
 .site-navbar {
     display: flex;
     justify-content: space-between;
-    border: 2px solid red;
 }
 
 .nav-button {
@@ -36,4 +34,8 @@
     gap: 30px;
     padding: 10px;
     align-items: center;
+}
+
+.site-banner {
+    padding: 20px;
 }
