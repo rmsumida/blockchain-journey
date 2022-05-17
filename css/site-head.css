@@ -9,15 +9,14 @@
     border: 2px solid red;
 }
 
-.home-logo-button {
-    background-image: url("images/blockchain-icon.png");
-    height: 50px;
-    background-size: contain;
-    text-align: center;
-    display: inline-block;
-    font-size: large;
-    color: white;
-    background-color: white;
-    border: none;
-    border-radius: 8px;
+.site-nav-left {
+    padding: 8px;
+}
+
+.home-logo {
+    width: 40px;
+}
+
+.site-nav-right {
+    padding: 8px;
 }
