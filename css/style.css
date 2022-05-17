@@ -11,4 +11,5 @@ html {
 body {
     display: grid;
     grid-template-columns: 100%;
+    margin: 0;
 }
