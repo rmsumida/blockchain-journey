@@ -1,6 +1,7 @@
 .site-foot-container {
     display: flex;
     justify-content: space-between;
+    background-color: #222;
     border: 2px solid green;
 }
 
