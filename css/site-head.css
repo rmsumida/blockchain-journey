@@ -1,5 +1,8 @@
 .site-head {
     background-color: #222;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .site-navbar {
@@ -37,5 +40,5 @@
 }
 
 .site-banner {
-    padding: 20px;
+    padding: 8px;
 }
