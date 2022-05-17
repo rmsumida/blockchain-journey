@@ -2,8 +2,13 @@
 @import "site-main.css";
 @import "site-foot.css";
 
+html {
+    font: 100%/1.6em georgia,serif;
+    color: white;
+}
+
 body {
     display: grid;
     grid-template-columns: 100%;
+    background-color: #222;
 }
-
