@@ -1,9 +1,13 @@
+.site-main-container {
+    margin: auto;
+}
+
 .post-card-feed {
     display: grid;
     max-width: 1200px;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     gap: 20px;
-    background-color: whitesmoke;
+    background-color: white;   
     padding: 20px;
     border: 2px solid blue;
 }
