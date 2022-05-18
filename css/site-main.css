@@ -28,6 +28,7 @@
 
 .post {
     color: black;
+    border: 2px solid red;
 }
 
 .post-feature-img {
@@ -36,4 +37,5 @@
     margin: 0.8em auto 0;
     max-width: 720px;
     max-height: 500px;
+    border: 2px solid blue;
 }
