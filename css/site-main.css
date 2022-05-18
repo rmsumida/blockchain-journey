@@ -49,7 +49,7 @@
 
 .post-byline {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     border: 2px solid black;
 }
 
@@ -80,4 +80,10 @@
 
 .post-full-content {
     border: 2px solid green;
+}
+
+@media(min-width:450px) {
+    .post-byline {
+        flex-direction: row;
+    }
 }
