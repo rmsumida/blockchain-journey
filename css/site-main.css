@@ -41,13 +41,17 @@
     border: 2px solid blue;
 }
 
-.post-byline {
-    border: 2px solid black;
-    font-size: small;
+.post-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
-.post-full-content {
-    border: 2px solid green;
+.post-byline {
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+    border: 2px solid black;
 }
 
 .post-share {
@@ -62,4 +66,8 @@
     margin: 10px;
     font-size: 1.5em;
     color: grey;
+}
+
+.post-full-content {
+    border: 2px solid green;
 }
