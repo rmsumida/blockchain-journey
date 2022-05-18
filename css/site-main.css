@@ -51,7 +51,7 @@
 
 .post-share {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     border: 2px solid red;
 }
 
