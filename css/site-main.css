@@ -43,8 +43,7 @@
 
 .post-header {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
 }
 
 .post-byline {
@@ -83,6 +82,11 @@
 }
 
 @media(min-width:450px) {
+    .post-header {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
     .post-byline {
         flex-direction: row;
     }
