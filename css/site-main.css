@@ -57,11 +57,6 @@
     border: 2px solid red;
 }
 
-.share-button {
-    background-color: transparent;
-    border: none;
-}
-
 .share-icon {
     max-height: 20px;
 }
