@@ -54,6 +54,10 @@
     border: 2px solid black;
 }
 
+.author-link {
+    font-size: 5em;
+}
+
 .post-share {
     display: flex;
     justify-content: flex-end;
