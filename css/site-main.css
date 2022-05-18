@@ -50,12 +50,15 @@
 .post-byline {
     display: flex;
     flex-direction: row;
-    font-size: small;
     border: 2px solid black;
 }
 
 .author-link {
     font-size: 5em;
+}
+
+.author-info {
+    font-size: small;
 }
 
 .post-share {
