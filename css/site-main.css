@@ -43,6 +43,7 @@
 
 .post-byline {
     border: 2px solid black;
+    font-size: small;
 }
 
 .post-full-content {
