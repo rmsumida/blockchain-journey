@@ -40,12 +40,5 @@
 }
 
 .site-banner {
-    font-size: small;
     padding: 8px;
-}
-
-@media(min-width:450px) {
-    site-banner {
-        font-size:initial;
-    }
 }
