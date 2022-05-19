@@ -38,7 +38,7 @@
     display: flex;
     justify-content: center;
     margin: 0.8em auto 0;
-    width: 100%;
+    max-width: 720px;
     max-height: 500px;
     object-fit: contain;
     border: 2px solid blue;
