@@ -51,7 +51,7 @@
 .post-byline {
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 8px;
     border: 2px solid black;
 }
 
