@@ -50,22 +50,22 @@
 .post-byline {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    gap: 4px;
     border: 2px solid black;
 }
 
 .author-avatar {
     max-height: 4em;
-    margin: 2px;
 }
 
 .author-info {
     font-size: small;
     line-height: 1.1;
+    text-align: center;
 }
 
 .author-info name {
-    font-style: bold;
+    font-weight: bold;
 }
 
 .author-info bio {
@@ -100,5 +100,9 @@
 
     .post-byline {
         flex-direction: row;
+    }
+
+    .author-info name {
+        text-align: left;
     }
 }
