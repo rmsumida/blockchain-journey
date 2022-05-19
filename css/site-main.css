@@ -35,13 +35,16 @@
 }
 
 .post-feature-img {
-    display: flex;
-    justify-content: center;
+    /*display: flex;
+    justify-content: center;*/
     margin: 0.8em auto 0;
+    border: 2px solid blue;
+}
+
+.post-feature-img img {
     max-width: 720px;
     max-height: 500px;
     object-fit: contain;
-    border: 2px solid blue;
 }
 
 .post-header {
