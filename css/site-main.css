@@ -61,8 +61,10 @@
 }
 
 .author-avatar {
-    max-height: 4em;
+    margin: auto;
+    max-height: 2.5em;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .author-info {
@@ -114,10 +116,7 @@
     }
 
     .author-avatar {
-        margin: auto;
         max-height: 2.5em;
-        padding-top: 20px;
-        padding-bottom: 20px;
     }
 
     .author-info {
