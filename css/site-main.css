@@ -60,12 +60,14 @@
     border: 2px solid black;
 }
 
-.author-avatar {
-    text-align: center;
+.author-link {
     margin: auto;
-    max-height: 2.5em;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.author-avatar {
+    max-height: 2.5em;
 }
 
 .author-info {
