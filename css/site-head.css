@@ -12,15 +12,12 @@
 }
 
 .nav-button {
-    background-color: transparent;
-    border: none;
-}
-
-.nav-link {
     color: white;
     text-align: center;
     text-decoration: none;
     font-size: large;
+    background-color: transparent;
+    border: none;
 }
 
 .home-logo {
