@@ -39,7 +39,8 @@
     justify-content: center;
     margin: 0.8em auto 0;
     width: 100%;
-    height: auto;
+    max-height: 500px;
+    object-fit: contain;
     border: 2px solid blue;
 }
 
