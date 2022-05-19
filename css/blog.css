@@ -49,14 +49,6 @@
     margin: 0%;
 }
 
-.author-info name {
-    font-weight: bold;
-}
-
-.author-info bio {
-    font-style: italic;
-}
-
 .post-share {
     display: flex;
     flex-direction: row;
