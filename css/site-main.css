@@ -64,6 +64,10 @@
 }
 
 .author-info name {
+    font-style: bold;
+}
+
+.author-info bio {
     font-style: italic;
 }
 
