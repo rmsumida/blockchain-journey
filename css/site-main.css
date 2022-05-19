@@ -28,7 +28,6 @@
 
 .post {
     color: black;
-    border: 2px solid red;
     padding:40px;
     max-width: 720px;
     margin: auto;
@@ -40,7 +39,6 @@
     max-width: 720px;
     max-height: 500px;
     margin: 0.8em auto 0;
-    border: 2px solid blue;
 }
 
 .post-feature-img img {
@@ -99,10 +97,6 @@
     margin: 10px;
     font-size: 1.5em;
     color: grey;
-}
-
-.post-full-content {
-    border: 2px solid green;
 }
 
 @media(min-width:455px) {
