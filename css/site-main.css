@@ -30,6 +30,7 @@
     color: black;
     border: 2px solid red;
     padding:40px;
+    max-width: 1200px;
 }
 
 .post-feature-img {
