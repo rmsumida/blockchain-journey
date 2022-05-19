@@ -63,6 +63,10 @@
     line-height: 1.1;
 }
 
+.author-info name {
+    font-style: italic;
+}
+
 .post-share {
     display: flex;
     flex-direction: row;
