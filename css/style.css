@@ -1,6 +1,7 @@
 @import "site-head.css";
 @import "site-main.css";
 @import "site-foot.css";
+@import "blog.css";
 
 html {
     font-family: "Roboto", sans-serif;;
