@@ -61,6 +61,7 @@
 }
 
 .author-avatar {
+    text-align: center;
     margin: auto;
     max-height: 2.5em;
     padding-top: 20px;
