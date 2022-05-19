@@ -46,6 +46,6 @@
 
 @media(min-width:450px) {
     site-banner {
-        font-size: 100%;
+        font-size:initial;
     }
 }
