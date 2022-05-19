@@ -43,7 +43,7 @@
     border: 2px solid blue;
 }
 
-.post-feature-img {
+.post-feature-img img {
     max-width: 100%;
     height: auto;
 }
