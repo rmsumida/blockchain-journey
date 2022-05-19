@@ -53,8 +53,8 @@
     border: 2px solid black;
 }
 
-.author-link {
-    font-size: 3em;
+.author-avatar {
+    max-height: 3em;
     margin: auto;
 }
 
