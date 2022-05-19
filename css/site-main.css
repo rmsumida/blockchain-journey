@@ -62,12 +62,17 @@
 
 .author-avatar {
     max-height: 4em;
+    padding-top: 20px;
 }
 
 .author-info {
     font-size: small;
     line-height: 1.1;
     text-align: center;
+}
+
+.author-info p {
+    margin: 0%;
 }
 
 .author-info name {
@@ -106,6 +111,11 @@
 
     .post-byline {
         flex-direction: row;
+    }
+
+    .author-avatar {
+        max-height: 2.5em;
+        padding-top: 20px;
     }
 
     .author-info {
