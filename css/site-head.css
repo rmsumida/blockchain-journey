@@ -8,6 +8,7 @@
 .site-navbar {
     display: flex;
     justify-content: space-between;
+    padding: 2px;
 }
 
 .nav-button {
@@ -22,10 +23,6 @@
     font-size: large;
 }
 
-.site-nav-left {
-    padding: 8px;
-}
-
 .home-logo {
     width: 40px;
     background-color: white;
@@ -35,7 +32,6 @@
 .site-nav-right {
     display: flex;
     gap: 30px;
-    padding: 10px;
     align-items: center;
 }
 
